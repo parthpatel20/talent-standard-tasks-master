@@ -1,7 +1,7 @@
 # talent-standard-tasks-master
  MakingProfilePage for talents 
+# Task 1 Talent Profile
+<image src="screenshots/talentprofile.png">
 
-Profile Page 
-![]('https://github.com/parthpatel20/talent-standard-tasks-master/blob/master/screenshots/talentfeed1.png')
-
-![]('https://github.com/parthpatel20/talent-standard-tasks-master/blob/master/screenshots/talentprofile.png')
+# Task 2 Talent Feed
+<image src="screenshots/talentfeed1.png">
